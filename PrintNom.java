@@ -7,6 +7,6 @@ public class PrintNom {
 	}
 	//Modificación de archivo por medio de este comentario
 
-	//Este cambio es desde ramaDeLizandro
+	//Este cambio es desde ramaDeLizandro.
 
 }
